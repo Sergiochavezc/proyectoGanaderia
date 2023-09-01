@@ -1,0 +1,62 @@
+.imagenlogo{
+    width:170px;
+    height:110px; 
+    margin: 0px 0px -33px 0px;  
+}
+.pagina{
+    text-decoration: none;
+    margin: -20px -40px 60px 350px;
+    font-size: 1.6rem;
+    color: blue;
+   
+}
+.img__1{
+    width:470px;
+    height:280px;
+    margin: 10px 0px 0px 0px;
+}
+.texto_01{
+    margin: -280px 0px 50px 550px;
+    width: 600px;
+    font-size: 1.9rem;
+}
+.menu{
+    background-color: rgb(13, 174, 13);
+}
+.img__2{
+    width:490px;
+    height:300px; 
+    margin: 0px 0px 0px 700px;  
+}
+.texto_02{
+    margin: -290px 0px 150px 0px;  
+    width: 600px;
+    font-size: 1.9rem;
+}
+.logoface{
+    width:50px;
+    height:50px; 
+}
+.logowhat{
+    width:70px;
+    height:70px; 
+    margin: 0px 0px -10px 0px;  
+
+}
+.inicio__titulo{
+    margin: -0px 0px 0px 500px; 
+    font-size: 2.9rem;
+}
+.inicio__subtitulo{
+    font-size: 2.3rem;
+}
+.inicio__contenido{
+    width: 1300px;
+    font-size: 1.9rem;
+}
+.fondo__inicio{
+    background-image: url(https://cdn.pixabay.com/photo/2018/12/14/02/29/landscape-3874123_1280.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px;
+}
